@@ -7,7 +7,7 @@
 # http://dl-cdn.alpinelinux.org/alpine/v3.4/community/x86_64/
 FROM alpine:3.4
 
-MAINTAINER Tuan Vo <vohungtuan@gmail.com>
+MAINTAINER 195057035@qq.com
 
 ###############################################################################
 #                                INSTALLATION
